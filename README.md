@@ -1,16 +1,19 @@
-# Redux quiz group project
-
-Replace this readme with your own information about your project.
-
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
-
-## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+# Project Redux Quiz 
 
 ## View it live
+https://quiz-about-react.netlify.app/
 
-https://rococo-pony-134b75.netlify.app/
+## Project Brief
+Build a quiz game using Redux. It's a multiple-choice quiz, so you'll need to define your own questions and a bunch of possible answers to present to your users. Work in groups of 3. 
+
+## Project requirements 
+
+- [x]  Ideate, Design and create this project
+- [x] Use selectors to access redux state
+- [x] Use dispatch to trigger redux actions
+- [x] When the user selects an answer, it should show if they were correct or not.
+- [x] While going through the quiz, it should show which question you're on, or how many are left
+- [x]  When the user has answered all the questions, they should get to a summary screen that tells them how many they got correct or incorrect.
 
 # Running Locally
 
